@@ -1,0 +1,17 @@
+{
+  "name": "ecdh_aes_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.0.4",
+    "crypto": "^1.0.1",
+    "nodemon": "^1.19.4"
+  }
+}
